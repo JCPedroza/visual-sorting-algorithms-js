@@ -27,7 +27,7 @@ export function * bubbleSortNaiveGen (nums) {
 }
 
 export default {
-  id: 'bubbleSortNaive',
+  id: 'Naive Bubble Sort',
   sort: bubbleSortNaive,
   gen: bubbleSortNaiveGen
 }

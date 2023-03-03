@@ -37,7 +37,7 @@ export function * bubbleSortGen (nums) {
 }
 
 export default {
-  id: 'bubbleSort',
+  id: 'Optimized Bubble Sort',
   sort: bubbleSort,
   gen: bubbleSortGen
 }
