@@ -3,7 +3,7 @@ import sorters from '../sorters/sorters.repo.js'
 
 const lastGen = (gen) => [...gen].at(-1)
 
-for (const {id, sort, gen} of sorters) {
+for (const { id, sort, gen } of sorters) {
   test(`Èmpty ${id}`)
     .expect(sort([]))
     .toEqual([])
