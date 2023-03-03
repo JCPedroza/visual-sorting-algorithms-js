@@ -1,6 +1,6 @@
-# Visual Sorting Algorithms in Java Script
+# Visual Sorting Algorithms JavaScript
 
-Visualization of sorting algorithms implemented in JavaScript.
+Sorting algorithms implemented in JavaScript and visualized in HTML.
 
 ## Running Unit Tests
 
