@@ -1,7 +1,9 @@
-import selectionSort from './selection-sort.js'
+import selectionSortNaive from './selection-sort-naive.js'
+import selectionSortOptim from './selection-sort-optim.js'
 
 const selectionSorters = [
-  selectionSort
+  selectionSortNaive,
+  selectionSortOptim
 ]
 
 export default selectionSorters
